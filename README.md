@@ -23,5 +23,11 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes. M
 
 ---
 
-### 📊 Estadísticas de GitHub
-![Leonel's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoCarovana&show_icons=true&theme=radical)
+### 📊 Mis Estadísticas
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoCarovana&theme=radical&hide_border=true" alt="LeoCarovana" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCarovana&layout=compact&theme=radical&hide_border=true" alt="LeoCarovana" />
+</p>
