@@ -1,7 +1,7 @@
 ### Hola 👋, soy Leonel Carovana
 **Estudiante de Ingeniería en Sistemas | Técnico Electromecánico**
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes. Mi perfil híbrido combina la lógica del desarrollo de software con una sólida base técnica en infraestructura y hardware. Actualmente cursando 4.º año en UTN Rosario.
+Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes. Mi perfil híbrido combina la lógica del desarrollo de software con una sólida base técnica en infraestructura y hardware. Actualmente cursando 5.º año en UTN Rosario.
 
 - 🔭 **Actualmente trabajando en:** Un sistema de gestión de descuentos para Shopping en PHP.
 - 🌱 **Aprendiendo:** Profundizando en arquitecturas escalables.
