@@ -1,25 +1,27 @@
-### Hola 👋, soy Leonel Carovana
-**Estudiante de Ingeniería en Sistemas | Técnico Electromecánico**
+## Hola 👋, soy Leonel Carovana
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes. Mi perfil híbrido combina la lógica del desarrollo de software con una sólida base técnica en infraestructura y hardware. Actualmente cursando 5.º año en UTN Rosario.
+**Desarrollador en NeuralSoft | Estudiante de Ingeniería en Sistemas (UTN Rosario) | Técnico Electromecánico**
 
-- 🔭 **Actualmente trabajando en:** Un sistema de gestión de descuentos para Shopping en PHP.
-- 🌱 **Aprendiendo:** Profundizando en arquitecturas escalables.
-- 💼 **Busco:** Mi primera experiencia profesional como Desarrollador Full Stack o en Infraestructura IT.
-- ⚡ **Dato curioso:** Puedo configurar tu router, armar el cableado de red y luego programar la web que corre en el servidor.
+Trabajo como desarrollador en **NeuralSoft**, sobre **MyLogic**, el ERP de la empresa. Entré al equipo como QA Tester y hoy estoy del lado del desarrollo, lo que me dio una mirada completa del producto: primero validando cómo debía comportarse y ahora construyéndolo. Estoy cursando 5.º año de Ingeniería en Sistemas de Información en la UTN Rosario.
+
+- 🔭 **Actualmente trabajando en:** mi Proyecto Final de carrera, un sistema de gestión y subastas online de vehículos siniestrados para una aseguradora, con clasificación asistida por IA y subastas en tiempo real.
+- 🌱 **Aprendiendo:** NestJS, arquitecturas modulares y comunicación en tiempo real con WebSockets.
+- 💼 **Experiencia:** desarrollo y testing funcional de un ERP (ventas, compras, stock, contabilidad e integraciones).
+- ⚡ **Dato curioso:** puedo configurar tu router, armar el cableado de red y después programar la web que corre en el servidor.
 
 ---
 
 ### 🛠️ Tech Stack & Herramientas
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
