@@ -1,4 +1,4 @@
-## Hola 👋, soy Leonel Carovana
+## Hola, soy Leonel Carovana
 
 **Desarrollador en NeuralSoft | Estudiante de Ingeniería en Sistemas (UTN Rosario) | Técnico Electromecánico**
 
